@@ -138,6 +138,7 @@ export default function Home() {
           alt="Youth soccer player training with Vybz Football"
           fill
           priority
+          loading="eager"
           sizes="100vw"
           className="object-cover opacity-55"
         />
